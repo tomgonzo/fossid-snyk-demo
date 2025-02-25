@@ -1,6 +1,8 @@
 # FossID and Snyk Demo Repo!
 Welcome! This repo showcases how FossID and Snyk can be used side-by-side.
 
+TRIVIAL CODE CHANGE
+
 ## About the App in this Repo
 This repo uses the Juice-Shop application. 
 
