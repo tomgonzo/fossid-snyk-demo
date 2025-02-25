@@ -3,6 +3,8 @@ Welcome! This repo showcases how FossID and Snyk can be used side-by-side.
 
 TRIVIAL CODE CHANGE
 
+Potatoes!
+
 ## About the App in this Repo
 This repo uses the Juice-Shop application. 
 
